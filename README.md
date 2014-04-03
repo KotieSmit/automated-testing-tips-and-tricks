@@ -3,7 +3,7 @@
 
 Some notes/extract from other pages and sources that I have found usefull while setting up a automated testing environment with Jenkins, Selenium webdriver, Internet explorer 7-10, Firefox and Chrome.
 
-PLEASE NOTE THAT NOT ALL IS NOT MY WORK, BUT A COLLECTION OF OTHER's AND MY WORD
+PLEASE NOTE THAT NOT ALL IS NOT MY WORK, BUT A COLLECTION OF OTHER's AND MY WORK
 
 Topics in the Wiki pages:
 
