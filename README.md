@@ -5,9 +5,9 @@ Some notes/extract from other pages and sources that I have found usefull while 
 
 PLEASE NOTE THAT NOT ALL IS NOT MY WORK, BUT A COLLECTION OF OTHER's AND MY WORD
 
-[Topics in the Wiki pages:](github.com/KotieSmit/automated-testing-tips-and-tricks/wiki)
+Topics in the Wiki pages:
 
-[Home](github.com/KotieSmit/automated-testing-tips-and-tricks/wiki)
+[Home](https://github.com/KotieSmit/automated-testing-tips-and-tricks/wiki)
 
 Internet explorer
  - [Webdriver errors](https://github.com/KotieSmit/automated-testing-tips-and-tricks/wiki/Internet-Explorer-and-Webdriver)
