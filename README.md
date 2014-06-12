@@ -16,7 +16,6 @@ Internet explorer
 
   
 Nginx
- - Creating self signed certs
  - [Creating self signed certs](https://github.com/KotieSmit/automated-testing-tips-and-tricks/wiki/Creating-Certs-on-NGINX)
 
 
